@@ -59,3 +59,8 @@ Recommendations will be provided based on the findings to support better financi
 ## Project Author
 
 Data Analytics Portfolio Project
+
+## Dashboard Preview
+
+![Financial Performance Dashboard](Financial_Performance_Dashboard.png)
+
