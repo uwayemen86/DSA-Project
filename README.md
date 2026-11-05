@@ -50,11 +50,33 @@ This project focuses on analysing an organisation's financial performance using 
 
 ## Key Insights
 
-This section will highlight the major findings from the financial analysis, including changes in profitability, expense patterns, and departmental performance.
+- The financial analysis revealed the following:
+
+- The organisation recorded total revenue of approximately ₦3.56 billion.
+
+- Gross Profit stood at approximately ₦487.06 million.
+
+- Profit Before Tax (PBT) was approximately -₦2.07 billion.
+
+- The PBT margin was approximately -58%, indicating an overall loss position.
+
+- Cost of Sales increased from ₦1.17 billion in 2024 to ₦1.90 billion in 2025.
+
+- Logistics & Fleet recorded a significant increase in departmental expenses between 2024 and 2025.
 
 ## Recommendations
 
-Recommendations will be provided based on the findings to support better financial planning, cost management, and business performance.
+- Based on the findings, the following actions are recommended:
+
+- Review the major drivers of Cost of Sales.
+
+- Strengthen expense monitoring and cost-control measures.
+
+- Investigate the increase in Logistics & Fleet expenses.
+
+- Monitor profitability and departmental performance regularly.
+
+- Use financial insights to support strategic management decisions.
 
 ## Project Author
 
