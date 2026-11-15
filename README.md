@@ -96,3 +96,17 @@ Data Analytics Portfolio Project
 
 This project uses sample financial data for learning and demonstration purposes.
 
+## Repository Structure
+
+DSA-Project/
+│
+├── README.md
+├── Financial_Performance_Dashboard.png
+└── FinSight_Recovery.pbix
+
+### File Descriptions
+
+- `README.md` – Project overview, objectives, key findings, and recommendations.
+- `Financial_Performance_Dashboard.png` – Screenshot preview of the Power BI dashboard.
+- `FinSight_Recovery.pbix` – Interactive Power BI report file.
+
