@@ -89,7 +89,7 @@ Data Analytics Portfolio Project
 ## How to View This Project
 
 - View the dashboard screenshot above for a quick preview.
-- Download `FinSight_Recovery.pbix` to explore the interactive report.
+- [Download the Power BI Dashboard](FinSight_Recovery.pbix) to explore the interactive report.
 - Open the PBIX file using Microsoft Power BI Desktop.
 
 ## Project Note
