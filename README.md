@@ -110,3 +110,14 @@ DSA-Project/
 - `Financial_Performance_Dashboard.png` – Screenshot preview of the Power BI dashboard.
 - `FinSight_Recovery.pbix` – Interactive Power BI report file.
 
+- ## How to Explore the Dashboard
+
+The dashboard includes interactive filters that allow users to explore financial performance from different perspectives:
+
+- **Year:** Compare financial performance between 2024 and 2025.
+- **Branch:** Examine financial results across different branches.
+- **Department:** Compare expenses and performance across departments.
+- **Transaction Status:** Filter transactions by their status.
+
+These filters help users investigate revenue, profitability, and operating expenses in greater detail.
+
