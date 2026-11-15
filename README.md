@@ -86,7 +86,7 @@ Data Analytics Portfolio Project
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](Financial_Performance_Dashboard.png)
+![Financial Performance Dashboard](images/Financial_Performance_Dashboard.png)
 
 ## How to View This Project
 
