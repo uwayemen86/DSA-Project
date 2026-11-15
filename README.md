@@ -121,3 +121,13 @@ The dashboard includes interactive filters that allow users to explore financial
 
 These filters help users investigate revenue, profitability, and operating expenses in greater detail.
 
+## Business Questions Explored
+
+This project uses financial data to investigate the following questions:
+
+1. How did revenue and profitability change between 2024 and 2025?
+2. What happened to operating expenses and profit margins?
+3. Which departments recorded higher or lower expenses?
+4. How did financial performance differ across branches?
+5. Which areas may require management attention?
+
