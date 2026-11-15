@@ -131,3 +131,14 @@ This project uses financial data to investigate the following questions:
 4. How did financial performance differ across branches?
 5. Which areas may require management attention?
 
+ ## Project Status
+
+**Status:** Completed
+
+This project demonstrates practical skills in:
+- Microsoft Power BI
+- Power Query for data transformation
+- DAX for financial calculations
+- Data visualisation and reporting
+- Financial performance analysis
+
