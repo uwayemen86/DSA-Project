@@ -86,3 +86,13 @@ Data Analytics Portfolio Project
 
 ![Financial Performance Dashboard](Financial_Performance_Dashboard.png)
 
+## How to View This Project
+
+- View the dashboard screenshot above for a quick preview.
+- Download `FinSight_Recovery.pbix` to explore the interactive report.
+- Open the PBIX file using Microsoft Power BI Desktop.
+
+## Project Note
+
+This project uses sample financial data for learning and demonstration purposes.
+
