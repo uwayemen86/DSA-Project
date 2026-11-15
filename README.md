@@ -64,6 +64,8 @@ This project focuses on analysing an organisation's financial performance using 
 
 - Logistics & Fleet recorded a significant increase in departmental expenses between 2024 and 2025.
 
+- **Overall Business Insight:** Despite generating approximately ₦3.56 billion in revenue, the organisation recorded a loss before tax of approximately ₦2.07 billion, highlighting significant cost pressures and the need for stronger expense management.
+
 ## Recommendations
 
 - Based on the findings, the following actions are recommended:
